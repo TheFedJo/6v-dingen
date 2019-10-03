@@ -3,7 +3,7 @@
 
 # README BELANGRIJKST
 
-Elke toets hoort in 1 folder, ik moet nog kijken hoe het precies werkt, maar als je suggesties of opmerkingen hebt laat het me weten
+Hier kun jij je eigen planningen, samenvattingen en andere tekst met anderen en jezelf delen. Geen chaos met magister en geen onoverzichtelijke planningen. Hier is alles gesorteerd met minieme opsmuk. Geniet van het genieten, houd je aan de regels maar niet je mond.(foutieve samentrekking)
 
 ALvast bedankt,
 
