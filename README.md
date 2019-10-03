@@ -1,17 +1,20 @@
 #### 5v-planning
 ## 5v plant alle toetsen op 1 plek
 
-# README
+# README BELANGRIJKST
 
-// Elke toets hoort in 1 folder, ik moet nog kijken hoe het precies werkt, maar als je suggesties of opmerkingen hebt laat het me weten
+Elke toets hoort in 1 folder, ik moet nog kijken hoe het precies werkt, maar als je suggesties of opmerkingen hebt laat het me weten
 
-//ALvast bedankt,
+ALvast bedankt,
 
-//FedJo
+FedJo
 
 # REGELS
 
-Check het biol bestand voor format voorbeeld.
 Alle veranderingen kunnen worden teruggedraaid door mij.
+
+Check het biol bestand voor het format-voorbeeld.
+
 In de map Deprecation zijn de oude planningen van docenten beschikbaar.
-Jouw persoonlijke samenvattingen, verslagen etc. mag je in de map Werk stoppen onder de naam vak-naam/alias-opdrachtnaam
+
+Jouw persoonlijke samenvattingen, verslagen etc. mag je in de map Werk stoppen onder de naam `vak-naam/alias-opdracht_met_lange_naam` 
