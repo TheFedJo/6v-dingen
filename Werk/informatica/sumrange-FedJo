@@ -1,0 +1,14 @@
+function range(term1, lastterm, increment = 1) {
+  let range1 = []
+  let count = term1
+  while (range1[range1.length - 1] !== lastterm) {
+    range1.push(count);
+    count += increment;
+  };
+  return range1
+};
+
+function sum(aray) {
+  let sumA = 0
+  
+}
