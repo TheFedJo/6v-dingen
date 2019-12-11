@@ -31,9 +31,6 @@ function nth(list, pos) {
   } else {
     return list.value 
   }
-  
-  
-  
 }
 
 console.log(arrayToList([10, 20, 40, 50]));
