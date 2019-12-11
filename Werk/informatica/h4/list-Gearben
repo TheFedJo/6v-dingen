@@ -27,3 +27,13 @@ function nth(list, count) {
   }
   return C[count]
 }
+
+// RECURSIVE NTH
+
+function nth(a, b) {
+  let count = b
+  while (count !== 1) {
+    return nth(a.rest, b - 1)
+  }
+  return a.value
+}
