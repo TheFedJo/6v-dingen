@@ -1,18 +1,18 @@
-# 5. The 8th commandment
+# The 8th commandment
 
-# ‘’Thou shalt not steal’’ Exodus 20:15
+#### ‘’Thou shalt not steal’’ Exodus 20:15
 
 Why is mankind inclined to steal? There are two kind of causes, the internal and the external causes.
 
-# Internal causes:
+### Internal causes:
 
 -Unbelief. A man has a distrust of God’s providence, and therefore he provides himself with stolen goods.
 -Covetousness. A man covets more than his own, and this itch of covetousness makes him scratch what he can from another.
 
-# External causes:
+### External causes:
 -Satan’s solicitation. Judas was a thief, because Satan entered into him.
 
-# There are two kinds of stealing:
+#### There are two kinds of stealing:
 
 -Stealing from God, which indicates the robbing of the Sabbath.
 -Stealing from others:
@@ -26,7 +26,7 @@ Why is mankind inclined to steal? There are two kind of causes, the internal and
 --The borrower, who borrows money from others, with an intention never to pay them again.
 --The last sort of theft is, the receiver of stolen goods. The receiver, if he be not the principal, yet is accessory to the theft, and the law makes him guilty.
 
-# What are the aggravations of this sin?
+## What are the aggravations of this sin?
 
 -To steal when there is no need; to be a rich thief.
 -To steal sacrilegiously, to devour things to set apart to holy uses.
@@ -34,7 +34,7 @@ Why is mankind inclined to steal? There are two kind of causes, the internal and
 -To rob the widow and orphan.
 -To rob the poor.
 
-# A man can be a thief to himself in this way:
+## A man can be a thief to himself in this way:
 
 -By niggardliness. The niggard is a thief, he steals from himself in not allowing himself what is needful.
 -A man may rob himself by foolishly wasting his estate.
