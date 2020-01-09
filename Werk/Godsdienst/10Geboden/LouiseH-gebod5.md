@@ -2,23 +2,23 @@
 
 Father is of different kinds; as the political, the ancient, the spiritual, the domestic, and the natural.
 
-# Political father, the magistrate
+### Political father, the magistrate
 
 Their place deserves honour. God has promoted kings, that they may promote justice. We have to pray for them, that they may be blessings.
 
-# The grave, ancient father
+### The grave, ancient father
 
 These fathers have to be honoured for their seniority and especially (if they are pious) for their piety. Honour an old man who is serving God by reverencing and imitating him. 
 
-# The spiritual fathers, as pastors and ministers
+### The spiritual fathers, as pastors and ministers
 
 These fathers are to be honoured in respect of their office, they are messengers of the Lord. Honour them by (1) giving them respect, (2) advocating for them and (3) believe and obey their doctrine. 
 
-# The domestic father, the master
+### The domestic father, the master
 
 Although a master might not be as qualified as he should be, the servant must not neglect his duty and honour him in a certain way. A servant should (1) obey his master in things that are lawful and honest, (2) be diligent in his service, (3) honour his master by being faithful and (4) serve him without replying. Meanwhile masters have to (1) take care to provide for their servants, (2) encourage them in their work, (4) not overburden them, (5) seek their spiritual good, (6) be very exact and punctual in agreements you make with them and (7) be careful with them in health and sickness. 
 
-# The natural father
+### The natural father
 
 Honour thy natural father. Children are to honour their parents by reverential esteem, inwardly, by fear mixed with love and outwardly, both in word and gesture.  Secondly children have to show honour by careful obedience in (1) listening to their advice, (2) complying with their commands and (3) relieving their wants. Why should children honour their parents? (1) It’s God’s command, (2) they deserve it as respect for the love and affection they show to their children and (3) honouring your father and your mother is well-pleasing to the Lord. 
 
