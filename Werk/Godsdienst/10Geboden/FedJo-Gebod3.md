@@ -1,8 +1,8 @@
-The third commandment
+# The third commandment
 Dit gebod bestaat uit 2 delen:
-1.	Een verbod, nl. dat we zijn naam niet onteren.
-2.	Een gebod, nl. dat we zijn naam moeten eren.
-Het verbod
+##### 1.	Een verbod, nl. dat we zijn naam niet onteren.
+##### 2.	Een gebod, nl. dat we zijn naam moeten eren.
+### Het verbod
 De tong is een zondig lichaamsdeel, meer nog dan alle andere. Daarom is het derde gebod er om het in toom te houden. Het verbiedende deel heeft een sterk argument, nl. dat God de overtreders niet onschuldig zal houden. 
 We gebruiken Gods naam ijdellijk als we
 (1)	Die zonder Hem de toebehorende eer toe te kennen gebruiken.
