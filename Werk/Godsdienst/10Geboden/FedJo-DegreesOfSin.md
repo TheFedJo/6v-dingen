@@ -4,7 +4,7 @@ Zijn alle overtredingen van de wet even erg? Nee, sommige zonden zijn erger voor
 1.	Er verschillende offers waren voor zonden,
 2.	Sommige zonden kunnen niet vergeven worden en
 3.	Sommige zonden zwaarder gestraft worden, zoals staat in Matth. 23:14
-#  “Wee u, gij Schriftgeleerden en Farizeën, gij geveinsden, want gij eet de huizen der weduwen op, en dat onder den schijn van lang te bidden; daarom zult gij te zwaarder oordeel ontvangen.”
+##  “Wee u, gij Schriftgeleerden en Farizeën, gij geveinsden, want gij eet de huizen der weduwen op, en dat onder den schijn van lang te bidden; daarom zult gij te zwaarder oordeel ontvangen.”
 Daarom zijn zonden zwaarder als ze (1) zonder aanleiding en (2) bewust tegen beter weten in gedaan worden, dit laatste kan op 6 manieren:
 1.	Wanneer men zijn plicht negeert
 2.	Wanneer men in een zonde leeft, die je bij anderen bestraft
@@ -18,4 +18,4 @@ Ook zijn (3) zonden zwaarder als ze continu gedaan worden zoals de vorsten onder
 (9)	christenen vervolgt.
 (10)	ze doet om God te onteren.
 (11)	ermee ook anderen wil laten zondigen zoals jij, bijvoorbeeld door anderen te leren zondigen of het verkeerde voorbeeld te geven. Men moet dus iotkijken voor deze gevallen want zoals Watson zegt:
-# ” The higher a man is in sinning—the lower he shall lie in torment!” 
+## ” The higher a man is in sinning—the lower he shall lie in torment!” 
