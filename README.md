@@ -18,3 +18,4 @@ Check het biol bestand voor het format-voorbeeld.
 In de map Deprecation zijn de oude planningen van docenten beschikbaar.
 
 Jouw persoonlijke samenvattingen, verslagen etc. mag je in de map Werk stoppen onder de naam `vak-naam/alias-opdracht_met_lange_naam` 
+Als je deze in een mooie opmaak wil presenteren, kun je simpelweg .md achter de bestandsnaam plakken. Hiermee kun je de lettergrootte en andere dingen aanpassen. 
