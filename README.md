@@ -13,7 +13,7 @@ FedJo
 
 Alle veranderingen kunnen worden teruggedraaid door mij.
 
-Check het biol bestand voor het format-voorbeeld.
+Check bestaande bestanden voor het format.
 
 In de map Deprecation zijn de oude planningen van docenten beschikbaar.
 
