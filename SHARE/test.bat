@@ -22,7 +22,5 @@ cd ..\3d objects
 dir
 cd ..\..\public
 dir
-cd ..\..\..\Program Files (x86)\google\chrome\application
-start chrome.exe https://store.steampowered.com/
 pause
 exit
