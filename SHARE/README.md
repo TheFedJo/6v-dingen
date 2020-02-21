@@ -7,9 +7,8 @@
 #### LedM7
 #### Leo
 #### Mainframe
-#### Shut
-#### Thomas_Custom
 #### Schaakbord (2)
 #### Schaakbord
+#### Shut
 #### Test
-
+#### Thomas_Custom
