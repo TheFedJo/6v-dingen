@@ -1,0 +1,542 @@
+22-05-19 15:46 - Berichten die naar deze groep worden verzonden, zijn nu beveiligd met end-to-end versleuteling. Tik voor meer informatie.
+27-08-15 20:31 - ‎Maaike Bulsink heeft de groep '4Va' aangemaakt
+22-05-19 15:46 - ‎GEARben Polinder heeft u toegevoegd
+22-05-19 15:46 - FedJo: BenQ weer
+22-05-19 15:46 - FedJo: Mobiel was afgepakt, als je dat nog niet wist
+25-05-19 02:16 - ‎GEARben Polinder's beveiligingscode is gewijzigd. Tik hier voor meer informatie.
+25-05-19 11:33 - FedJo: *D D D D*
+25-05-19 11:33 - FedJo: *De week in beeld*
+25-05-19 11:33 - FedJo: En nu heb ik 2 opties
+25-05-19 11:34 - FedJo: Deze link:
+25-05-19 11:34 - FedJo: https://cdn.discordapp.com/attachments/565959605658845194/581409126035488778/sketch-1539169448000.png
+25-05-19 11:34 - FedJo: Of de afbeelding meteen
+25-05-19 11:34 - FedJo: <Media weggelaten>
+25-05-19 11:35 - FedJo: Deze is voor de sfeer
+10-06-19 19:13 - FedJo: *Q Q Q Q*
+10-06-19 19:13 - FedJo: *Quote van de vorige week*
+10-06-19 19:13 - FedJo: ||`_*Rome-editie*_`||
+10-06-19 19:13 - FedJo: "Er zit een gaatje in." -Leonard Donk
+10-06-19 19:21 - GEARben Polinder: 😂😂
+10-06-19 19:23 - Anna van de Riet: Oh met die kraantjes??
+10-06-19 19:38 - Esther van Leijenhorst: Wachten op dit bericht
+10-06-19 19:52 - Thijs Rolleman: Wachten op dit bericht
+10-06-19 19:52 - Herbert Brink: Pdf jes op internet
+10-06-19 19:52 - Herbert Brink: Schijnen er te zijn
+10-06-19 19:53 - Aren van de Snel: Wanneer is die toets? Deze week?
+10-06-19 19:54 - Thijs Rolleman: Van die boeken is ocer 2 weken
+10-06-19 19:54 - Herbert Brink: Nee dat is literatyurgeschiedenis
+10-06-19 19:54 - Aren van de Snel: + literatuurgeschiedenis?
+10-06-19 19:54 - Aren van de Snel: Dus allemaal in 1 week
+10-06-19 19:54 - Aren van de Snel: Allebei*
+10-06-19 19:54 - Thijs Rolleman: Idk
+10-06-19 19:54 - Herbert Brink: Die boeken is in de toetsweek volgens mij
+10-06-19 19:56 - Thijs Rolleman: Op die planning staat 24/06 - 28/06 die boekentoets
+10-06-19 19:57 - Herbert Brink: Die planning moet je niet volgen
+10-06-19 19:59 - Thijs Rolleman: Ow ach ik nd ie wel
+10-06-19 19:59 - Thijs Rolleman: Ik zie wel*
+12-06-19 19:45 - ‎Lidewey Schipaanboord's beveiligingscode is gewijzigd. Tik hier voor meer informatie.
+13-06-19 11:02 - FedJo: *Q Q Q Q*
+13-06-19 11:02 - FedJo: *Quote van de week*
+13-06-19 11:02 - FedJo: "Apparently, a lemon is not naturally occurring and is a hybrid developed by cross breeding a bitter orange and a citron. Life never gave us lemons; we invented them all by ourselves." -u/TripleRangeMerge on r/Showerthoughts
+13-06-19 22:26 - Thijs Rolleman: Dit bericht is verwijderd
+13-06-19 22:26 - Thijs Rolleman: Dit bericht is verwijderd
+20-06-19 22:35 - FedJo: *Q Q Q Q*
+20-06-19 22:35 - FedJo: *Quote van de week*
+20-06-19 22:35 - FedJo: "Related to this a question arises: whether it be better to be loved than feared or feared than loved? It maybe answered that one should wish to be both, but, because it is difficult to unite them in one person it ismuch safer to be feared than loved, when only one is possible. The reason for this is that in general men are ungrateful, inconstant, false, cowardly, and greedy. As long as you succeed, they are yours entirely -they will offer you their blood, property, life, and children, when the need is far distant. But when the need approaches, they turn against you." -Niccoló Machiavelli
+24-06-19 11:14 - FedJo: *D D D D*
+24-06-19 11:14 - FedJo: *De afgelopen weken in beeld*
+24-06-19 11:14 - FedJo: `__**Rome-editie**__`
+24-06-19 11:14 - FedJo: https://cdn.discordapp.com/attachments/565959605658845194/592602830112817162/sketch-1561357804438.png
+24-06-19 11:19 - FedJo: <Media weggelaten>
+24-06-19 11:19 - FedJo: Deze foto uit Rome is bekend geworden met de naam 'De karatetrap'
+27-06-19 09:37 - FedJo: *Q Q Q Q*
+27-06-19 09:37 - FedJo: *Quote van de week*
+27-06-19 09:38 - FedJo: "Democratie is het beste besturingssysteem" -Reinhard Spiker
+27-06-19 20:11 - FedJo: client.on('message', m => {
+if(m.channel === "4Va") {
+m.channel.send(`${m.author}, je bent aan het juiste adres!`);
+  }
+});
+27-06-19 20:48 - FedJo: Hier word je niet gekickt als je je aan de regels houdt dankzij @31631385601
+27-06-19 20:55 - FedJo: En deze app heeft echte waarde
+27-06-19 21:08 - GEARben Polinder: Wat zegt dit?
+27-06-19 21:10 - FedJo: Dat er als de bot aan is en er een bericht komt, dat er dan wordt gekeken of het desbetreffende kanaal 4Va heet en als dat zo is stuurt hij daar "'auteur van het bericht dat ik zie', je bent aan het juiste adres."
+27-06-19 21:13 - FedJo: Klopt niet helemaal bij "4Va" want dat zou een combinatie van cijfers moeten zijn en ik gebruik normaal msg ipv m, terwijl nog meer mensen gewoon message gebruiken, ook is er nog deze twee ervoor
+const Discord = require ('discord.js');
+const client = new Discord.Client();
+Daarna nog meer om het .js bestand heen
+27-06-19 21:15 - FedJo: Deze cijfers: "563091756413878287"
+27-06-19 21:23 - GEARben Polinder: Doet ie het op Whatsapp?
+27-06-19 21:23 - FedJo: Nee
+27-06-19 21:23 - GEARben Polinder: Lol
+27-06-19 21:23 - FedJo: WhatsApp kan op dat gebied en wel meer net niets
+02-07-19 20:58 - FedJo: Tolereer en word getolereerd
+02-07-19 21:00 - FedJo: Wij zijn nog steeds niet politiek, wel deskundig
+02-07-19 21:45 - FedJo: *Q Q Q Q*
+02-07-19 21:45 - FedJo: *Quote van de week*
+02-07-19 21:45 - FedJo: `Ver van mijn bed
+
+Dan wordt het tijd om mijn bed te verplaatsen... ` -Anne van Asselt
+06-07-19 08:08 - FedJo: Als iemand nog een leuk plaatje heeft van Anna's feest, dan kan die dat doorsturen als *De week in beeld*
+Bij voorbaat dank.
+
+M.v.g.
+
+De voorlichting van Groene X
+06-07-19 08:15 - FedJo: Verder nog een verheldering van de gisteren gebeurde misdaad tegen te mensheid. Ik heb mijn onwetendheid mijn mobiel in de handen mijns broertjes laten vallen en de stickerspam van gisteren was het resultaat. Dit betekent niet dat Groene X de cultuurbarbaren daar enigszins respecteert, maar mede omdat stickerspam met de 13e conventie van Genève in 2014 is verboden en omdat wij dat zelf ook gruwelijk vinden, hebben wij publiekelijk onze excuses aangeboden.
+
+M.v.g.
+
+De voorlichting van Groene X
+06-07-19 11:38 - Lidewey Schipaanboord: Hoe laat is het boeken inleveren voor fietsleerlingen
+06-07-19 11:47 - Herbert Brink: Staat op llw ga maar uit van 10 uur
+06-07-19 11:48 - Lidewey Schipaanboord: Oke
+11-07-19 10:15 - FedJo: *Q Q Q Q*
+11-07-19 10:15 - FedJo: *Quote van de week*
+11-07-19 10:15 - FedJo: "Wintoets 5.0 is your worst enemy and a worse friend." -Winston Churchill, Sun Tzu, Nelson Mandela, John Fitzgerald Kennedy en de Dalai Lama.
+16-07-19 17:32 - ‎Jonathan van de Kooij's beveiligingscode is gewijzigd. Tik hier voor meer informatie.
+05-08-19 23:37 - ‎Diederick Haase's beveiligingscode is gewijzigd. Tik hier voor meer informatie.
+06-08-19 09:46 - ‎Diederick Haase's beveiligingscode is gewijzigd. Tik hier voor meer informatie.
+21-08-19 16:06 - ‎Anna van de Riet's beveiligingscode is gewijzigd. Tik hier voor meer informatie.
+26-08-19 08:02 - ‎Anna van de Riet's beveiligingscode is gewijzigd. Tik hier voor meer informatie.
+04-09-19 07:39 - FedJo: *Q Q Q Q*
+04-09-19 07:39 - FedJo: *Quote van de week*
+04-09-19 07:39 - FedJo: "Never was anything great achieved without danger." -Niccolò Machiavelli
+04-09-19 07:41 - ‎GEARben Polinder heeft het onderwerp gewijzigd van '4Va' naar '5Va'
+10-09-19 21:25 - FedJo: *Q Q Q Q*
+10-09-19 21:25 - FedJo: *Quote van de week*
+10-09-19 21:25 - FedJo: `It took untold generations to get you where you are. A little gratitude might be in order. If you're going to insist on bending the world to your way, you better have your reasons.` -Jordan Peterson
+10-09-19 21:26 - Herbert Brink: Feministen opgelet het is JORDAN PERDTERSON
+10-09-19 21:27 - FedJo: U hebt dit bericht verwijderd
+10-09-19 21:28 - FedJo: U hebt dit bericht verwijderd
+10-09-19 21:33 - FedJo: U hebt dit bericht verwijderd
+10-09-19 21:34 - FedJo: " _So you're saying that_ change is unjustifiable."
+11-09-19 17:40 - ‎Aren van de Snel heeft de groep verlaten
+11-09-19 21:43 - FedJo: Wie zat er nou een jaar geleden te smeken om de groep te bewaren en niet de groep te deleten en wie doet er zelf nu niets voor? Character revelation moet je dit wel noemen.
+17-09-19 21:03 - FedJo: *Q Q Q Q*
+17-09-19 21:03 - FedJo: *Quote van de week*
+17-09-19 21:03 - FedJo: "People camouflage against the herd. People aren't after happiness, they're after not hurting."  -Jordan B. Peterson
+23-09-19 06:59 - ‎Anna van de Riet's beveiligingscode is gewijzigd. Tik hier voor meer informatie.
+24-09-19 19:46 - FedJo: *Q Q Q Q*
+24-09-19 19:46 - FedJo: *Quote van de week*
+24-09-19 19:46 - FedJo: `Repetition does not transform a lie into a truth.` -Theodore Roosevelt
+25-09-19 07:12 - Herbert Brink: Messiah jongend
+25-09-19 17:21 - FedJo: Mensen
+25-09-19 17:21 - FedJo: Ik heb een vraag
+25-09-19 17:21 - FedJo: Korfbal, he
+25-09-19 17:26 - FedJo: Want we hebben volgende week de afsluiting, toch?
+25-09-19 17:34 - Wouter Dekker: Ja
+25-09-19 17:45 - FedJo: Hoe lang mag je de bal vasthouden?
+25-09-19 18:32 - GEARben Polinder: Onbeperkt
+25-09-19 19:20 - Petra Dolfsma: Ja denk ik ook
+25-09-19 20:44 - FedJo: Ok
+25-09-19 20:44 - FedJo: Je zou het haast niet denken
+27-09-19 12:42 - FedJo: U hebt dit bericht verwijderd
+27-09-19 12:42 - FedJo: U hebt dit bericht verwijderd
+27-09-19 12:42 - FedJo: U hebt dit bericht verwijderd
+27-09-19 12:44 - FedJo: *D D D D*
+27-09-19 12:44 - FedJo: *De week in beeld*
+27-09-19 12:44 - FedJo: <Media weggelaten>
+01-10-19 07:31 - GEARben Polinder: Gefeliciteerd FedJo🥳🥳🎉🎉
+01-10-19 07:45 - Leonard Donk: Gefeliciteerd🎉🎉🎉
+01-10-19 07:45 - FedJo: Bedankt vrienden
+01-10-19 07:56 - Jorinda Mulder: Gefeliciteerd🎉
+01-10-19 08:24 - Jonathan van de Kooij: Gefeliciteerd🥳
+01-10-19 11:06 - FedJo: Bedankt
+01-10-19 11:43 - GEARben Polinder: 😂
+01-10-19 11:45 - FedJo: U hebt dit bericht verwijderd
+01-10-19 13:11 - Wouter Dekker: Gefeliciteerd!
+01-10-19 20:17 - FedJo: Bedankt
+01-10-19 20:17 - FedJo: Is er nog aanvullende uitleg bij de godsdienst opdracht?
+01-10-19 20:18 - FedJo: Magister is een chaos
+01-10-19 20:22 - Anna van de Riet: <Media weggelaten>
+01-10-19 20:22 - Herbert Brink: In je papieren sermon on the mount boekje staat een layout wat redelijk duidelijk maakt van wat je moet doen
+01-10-19 20:22 - FedJo: oja
+01-10-19 20:22 - FedJo: U hebt dit bericht verwijderd
+01-10-19 20:22 - Herbert Brink: En wit
+01-10-19 20:23 - FedJo: Snijden zou hij en moest hij
+01-10-19 20:23 - Herbert Brink: <Media weggelaten>
+01-10-19 20:23 - Herbert Brink: Jammer dit ferdi
+01-10-19 20:23 - Herbert Brink: Ik zei nog zo dat jij het moest doen
+01-10-19 20:23 - FedJo: Nee meneer ging snijden
+01-10-19 20:24 - FedJo: en alles moest wijken
+01-10-19 20:24 - FedJo: Ik had het ook wel willen doen
+01-10-19 20:24 - Herbert Brink: Lult gij henen
+01-10-19 20:24 - FedJo: Maar nee
+01-10-19 20:24 - FedJo: Meneer was weer zo eigenwijs
+01-10-19 20:24 - Herbert Brink: Ik denk dat jij teveel bier op heb
+01-10-19 20:24 - Herbert Brink: Je klinkt niet helder meer
+01-10-19 20:25 - FedJo: Maar toen puntje bij paaltje kwam
+01-10-19 20:25 - Herbert Brink: ?
+01-10-19 20:25 - FedJo: Toen gaf hij het op
+01-10-19 20:25 - FedJo: En moest Diederik het opknappen
+01-10-19 21:08 - Diederick Haase: Huh?
+01-10-19 21:08 - Diederick Haase: Wie
+01-10-19 21:09 - FedJo: U hebt dit bericht verwijderd
+01-10-19 21:09 - Diederick Haase: Gefeliciteerd Ferdinand met je verjaardag nog
+01-10-19 21:10 - FedJo: U hebt dit bericht verwijderd
+01-10-19 21:10 - FedJo: U hebt dit bericht verwijderd
+01-10-19 21:10 - FedJo: Bedankt
+01-10-19 22:12 - FedJo: *Q Q Q Q*
+01-10-19 22:12 - FedJo: *Quote van de week*
+01-10-19 22:12 - FedJo: "Das ist eine klassische journalistische Behauptung. Sie ist zwar richtig, aber sie ist nicht die Wahrheit." -Helmut Kohl
+15-10-19 21:15 - FedJo: *Q Q Q Q*
+15-10-19 21:15 - FedJo: *Quote van de week*
+15-10-19 21:15 - FedJo: 'Je brein is net een walnoot. Ze zijn even groot, maken 1/40 uit van je lichaam en wegen beiden ongeveer 1500 gram, behalve allebei.' -Anonieme orthopedagoog
+17-10-19 11:19 - FedJo: *Q Q Q Q*
+17-10-19 11:19 - FedJo: *Quote van de vorige week*
+17-10-19 11:19 - FedJo: "I am just going outside and may be some time." -Lawrence Oates
+04-11-19 14:02 - FedJo: U hebt dit bericht verwijderd
+04-11-19 14:03 - FedJo: U hebt dit bericht verwijderd
+05-11-19 18:52 - FedJo: *Q Q Q Q*
+05-11-19 18:52 - FedJo: *Quote van de vorige week*
+05-11-19 18:52 - FedJo: `Mexico is such an important problem. The Mexican government's policies are pushing migration north... There isn't any sensible approach except to do what we need to do simultaneously. Secure our border — with technology, personnel, physical barriers if necessary in some places. We need to have tough employer sanctions, incentivize Mexico to do more.`
+ -Hillary Clinton
+05-11-19 19:14 - Herbert Brink: Haha
+14-11-19 17:27 - FedJo: #nietmijnparallel
+14-11-19 18:56 - FedJo: *Q Q Q Q*
+14-11-19 18:56 - FedJo: *Quote van de vorige week*
+14-11-19 18:56 - FedJo: "I am sure that some day the Czechs will see that what we did was to save them for a happier future." -Arthur Neville Chamberlain
+18-11-19 08:28 - FedJo: *Q Q Q Q*
+18-11-19 08:28 - FedJo: *Quote van de vorige week*
+18-11-19 08:28 - FedJo: "Jij bent de grootste mongool die ik ken met een sociale achterstand en een IQ van een tuinhekje" -Geert Horst als geert_horst op Instagram
+18-11-19 13:53 - Leonard Donk: En hij heeft het tegen jou...
+18-11-19 13:53 - Leonard Donk: ?
+18-11-19 14:58 - Herbert Brink: Jep
+18-11-19 15:05 - FedJo: Wat je allemaal wel niet tegenkomt op het World Wide Web
+19-11-19 21:00 - FedJo: Hij is er bijna
+19-11-19 21:05 - FedJo: Ei
+Eieren van vogels worden beschermd door een harde, kalkachtige schaal. Reptieleneieren hebben een zachtere, maar ook stevige schaal.
+*Luiaard en de mier part 7*
+Hanen leggen geen eieren, dit is waar, een feit, en nooit ver van de waarheid. Echt waar. Waarom steiN de haan dan met ei zat is dan ook helemaal geen raadsel, zie LedM 6, sorry, geen sorry, toch wel, je bent fout bezig, helemaal fout en Teeven, Fredrik Teeven, zette een adviesbureau op om bedrijven te adviseren over cybercrime et al. Dat zeggen ze nooit, bijna nooit, soms, niet altijd, dus vrijwel nooit, het is wel gebeurd dus het is waar en juist. En dat zeggen ze dan
+
+niet, relatief is ook niet alles, alles is relatief, Thijs is relatief ondik, gefeliciteerd Thijs, ik had nooit gedacht dat er bij iemand zoals jij zoveel decigrammen konden verdampen, simpelweg omdat ik daar nooit aan dacht tot nu en nu vroeger en langer geleden. Vroeger waren dingen beter en als dat niet zo was, dat is niet zo, fout, klopt niet, vroeger waren dingen beter en dat kan je niet ontkennen, *STOP*. "En weer door" *HALT* Slecht, onjuist, crimineel, draaideur en je leest gewoon door. Stuurboordwal houden wordt beloond en blijf op 1O0,O0 meter afstand van de drie blauwe lichten/kegels et al. Te laat, te vroeg of niet op de juiste plek op de juiste tijd, gewoon onverantwoord en niet getuigend van goed zeemanschap, onvoldoende en niet goed te maken, jammer. Toen kwam zei de luiaard veelbelovend veel, waarbij hij veel beloftes deed en tevens wat beloofde. Als je snapt wat ik bedoel. Uhhh. Dingens. Je weet wel. Hoe heet het? Mier. Die ene. Wacht nee. Of wel. Theo. Waar is Theo? Hoe laat is het? Qweet het weer. Denk ik. Theo, he? How zal ik dit verwoorden? (Hier vindt u weer het gebruik van die stilistische middelen. Dit is typerend voor dit soort teksten. Wordt u hier ook zo moe van? Dan bent u zonet nog vermoeider geworden. Lezen is gezond, behalve voor melk. Welterusten) En toen de haan. steiN heet hij. Je zou het haast niet denken, maar hij kwam de armleuning tegen. De armleuning stond in een museum in een hoekje weg te kwijnen als meest oninteressante beschreven persoonlijkheid ooit. Een prestatie op zich, maar wat is het nut? In ieder geval zoekt soort soort. Als soort soort niet had gezocht, waren soorten niet gesorteerd als soortelijke soorten. Verder is het erg belangrijk om te onthouden om... Wij onderbreken even om aandacht te geven aan het feit dat we geen sponsors hebben? Wilt u sponsoren in ruil voor uw leus prominent in de beste serie van 5va? Meld u dan via Discord met een Prezi, gedeeld met behulp van GitHub, waarin u duidelijk maakt hoe absurd slecht beide PowerPoint, WhatsApp en Internet Explorer wel niet zijn. Bij voorbaat dank.
+
+Met vriendelijke groeten,
+
+Ikzelf uiteraard 
+_Mede namens cursieve tekst_
+En in dat museum dus had je verscheidene artefacten daterend uit een tijdperk waarin mensen een avond zich konden ergeren aan, bezorgd zijn om en verward waren door dezelfde persoon ondanks herhaalde nadrukkelijke waarschuwingen die dus helemaal niet zo oud maar wel vrijwel vergeten waren, zoals de eerdergenoemde armleuning zonder luiaard en de mier die namelijk een burenruzie met hoog oplopende emoties hadden maar hun geschillen hebben bijgelegd en samen hun schouders eronder hebben gezet zonder de luiaard want die was te lui en de armleuning die geen schouders had en niet op tijd donorschouders kon krijgen. Toen kwam de lintworm Greta en die exclameerde de volgende diep filosofische zin, die hierop volgt: "Jij
+
+
+bent de grootste IQ die ik ken met een sociale mongool (geen familie van Dzjengis Khan, red.) met een achterstand van een tuinhekje" Dit moet u als lezer tot nadenken stemmen, omdat dit vanzelfsprekend vele vragen oproept. Zijn alle tuinhekjes gelijk? Welke tuin omheint dat tuinhekje? Hebben IQ'en tuinhekjes? Ja, natuurlijk. Is een tuinhekje minderwaardig ten opzichte van een traphekje? Wat is het verschil? Sinds wanneer is Dzjengis Khan niet sociaal? Deze vragen zouden de reden kunnen zijn van veel dingen maar dat later. Join de Discord! Met weinig actieve mensen en meerdere kunstmatige intelligenties en de schimmen van vele anderen herinnerend aan lang vergane glorie en een culturele climax om vanaf daar alleen maar stroomafwaarts te gaan tot NU. Nu komt er verandering. Of tenminste, dat is de bedoeling. Dus steun hogerop genoemde organisatie en profiteer van gezelligheid te midden van expertise. Graag. Dank u allen voor het komen naar mijn TEDx praatje. 
+
+PS: Coos Heijboer, ik heb je wel door, jij zal dit te lezen krijgen en dat zal je niet mogen ontkennen! Dankjewel Petra Dolfsma, voor je vermakelijke suggestie, implementatie wordt echter lastig gezien de publieke opinie. Toch bedankt en houd die spirit!
+19-11-19 21:11 - Leonard Donk: Tuinhekjes zijn zeer passief want ze moeten open en dicht gedaan worden door een mens met een bepaald IQ
+19-11-19 21:12 - Leonard Donk: #denkhetook
+19-11-19 21:12 - FedJo: Is dat een antwoord dat tot minder vragen leidt?
+19-11-19 21:13 - Herbert Brink: Nee
+19-11-19 21:14 - Herbert Brink: Het levert enkel twijfel verdriet en angst. Stel nou dat een bepaald iq het iq van een tuindeurhekje in het kwadraat is. Dan zit je lekker stampot te eten, maar dan kom je erachter dat de kachel niet doet. De infraroodstralling is vervangen door kleine gretatjes voor een beter en warmer klimaat!
+19-11-19 21:17 - Leonard Donk: Boerenstampot welteverstaan
+19-11-19 21:17 - FedJo: Uit de temperatuur programmeerbare oven
+19-11-19 21:19 - Leonard Donk: En daarom wordt de worst gedraaid door kleine boeren die wegkwijnen omdat ze teveel stikstof binnenkrijgen. Totdat ze Reintje tegenkomen die in de oven stond de bevriezen omdat de bladblazer zoog in plaats van zoog. Nee, maar het is wel zo dat de temperatuur oploopt zodra het kwik gaat dalen in een glazen buisje dat niet moet beslaan omdat men dan de temperatuur niet meer kan zien omdat het buisje dan geëxplodeerd is.
+19-11-19 21:21 - FedJo: Zoogdieren --> stikstof
+19-11-19 22:10 - Petra Dolfsma: Team Greta Thunberg💪🏻😏
+30-11-19 19:58 - ‎Thijs Rolleman's beveiligingscode is gewijzigd. Tik hier voor meer informatie.
+02-12-19 14:08 - FedJo: https://github.com/TheFedJo/5v-planning?files=1
+
+Ik heb dit een keer gemaakt en misschien wil iemand het gebruiken IPV magister want je kan zelf aanpassingen indienen en het is sneller dan magister, maar dat moet je zelf weten, want de overgrote meerderheid is er te lui of te dom voor. Of weet het beter. En je kan informatica huiswerk zien (niet overschrijven @31638485762, leer je niets van)
+02-12-19 15:40 - ‎Jonathan van de Kooij's beveiligingscode is gewijzigd. Tik hier voor meer informatie.
+02-12-19 18:40 - FedJo: _te lui of te dom_
+
+2 bezoekers, ik zei het toch
+11-12-19 17:41 - FedJo: *Q Q Q Q*
+11-12-19 17:41 - FedJo: *Quotes van de voorgaande weken*
+11-12-19 17:41 - FedJo: "Autism has become an epidemic." -Donald Trump
+11-12-19 17:41 - FedJo: "Staartdelingen zijn opium voor het volk." -Vladimir Lenin
+11-12-19 17:41 - FedJo: "Het leven is geen krentenbol." -Maarten Giesberts
+11-12-19 17:41 - FedJo: *D D D D*
+11-12-19 17:41 - FedJo: *De vorige week in beeld*
+11-12-19 17:42 - FedJo: <Media weggelaten>
+13-12-19 07:38 - FedJo: *Q Q Q Q*
+13-12-19 07:38 - FedJo: *Quote van de week*
+13-12-19 07:38 - FedJo: "Oei Gerben"
+13-12-19 07:39 - Leonard Donk: Nee
+13-12-19 07:40 - ‎Leonard Donk heeft de groep verlaten
+13-12-19 15:35 - ‎GEARben Polinder heeft Leonard Donk toegevoegd
+13-12-19 16:02 - Leonard Donk: Sorry voor de commotie
+13-12-19 19:39 - FedJo: *D D D D*
+13-12-19 19:39 - FedJo: *De week in beeld*
+13-12-19 19:39 - FedJo: <Media weggelaten>
+13-12-19 19:40 - FedJo: Zie quote van de week
+19-12-19 09:43 - FedJo: *Q Q Q Q*
+19-12-19 09:43 - FedJo: *Quote van de week*
+19-12-19 09:43 - FedJo: "Alles blijft
+Alles gaat voorbij
+Alles blijft voorbijgaan" -Jules Deelder
+19-12-19 10:20 - Herbert Brink: https://nos.nl/l/2315428
+19-12-19 10:20 - Herbert Brink: Goede timing man
+19-12-19 10:20 - FedJo: Kon ik dat weten?
+19-12-19 10:20 - Herbert Brink: Nee
+19-12-19 10:20 - FedJo: Nou dan
+19-12-19 10:20 - FedJo: Het gaat niet om Jules
+20-12-19 14:19 - FedJo: *D D D D*
+20-12-19 14:19 - FedJo: *De week in beeld*
+20-12-19 14:19 - FedJo: <Media weggelaten>
+20-12-19 14:20 - FedJo: Weerom zal je Herbert om toelichting moeten vragen.
+28-12-19 08:58 - FedJo: Geen quote deze week, maar jullie mogen wel je groeneX-moment, quote of beeld van het jaar kiezen
+30-12-19 22:05 - GEARben Polinder: .
+30-12-19 22:06 - FedJo: Quote van het jaar is geworden...
+30-12-19 22:06 - FedJo: "Wintoets 5.0 is your worst enemy and a worse friend." -Winston Churchill, Sun Tzu, Nelson Mandela, John Fitzgerald Kennedy en de Dalai Lama.
+30-12-19 22:07 - GEARben Polinder: .
+30-12-19 22:08 - ‎GEARben Polinder heeft Thomas van de Beukel toegevoegd
+30-12-19 22:08 - FedJo: <Media weggelaten>
+30-12-19 22:08 - FedJo: Het jaar in beeld
+02-01-20 18:54 - FedJo: <Media weggelaten>
+02-01-20 18:54 - FedJo: <Media weggelaten>
+02-01-20 18:55 - FedJo: Wij onderbreken de ceremonie voor een bericht van Gerben. Mocht je niet weten hoe je een swf (spreek uit als swiff)  opent, je opent ze met Internet Explorer en misschien ook met andere browsers
+06-01-20 09:41 - ‎Herbert Brink's beveiligingscode is gewijzigd. Tik hier voor meer informatie.
+07-01-20 22:57 - ‎Herbert Brink's beveiligingscode is gewijzigd. Tik hier voor meer informatie.
+09-01-20 19:00 - FedJo: Ik zie alweer magister mailtjes rondgaan met tekst die op die manier enorm chaotisch voorkomt en moeilijk te gebruiken is
+09-01-20 19:00 - FedJo: Daarom introduceren wij u andermaal
+09-01-20 19:01 - Herbert Brink: Wordt opgelost ferdie
+09-01-20 19:01 - FedJo: De 5v GitHub
+09-01-20 19:01 - FedJo: Dat is een oplossing die werkt
+09-01-20 19:01 - ‎Thomas van de Beukel heeft de groep verlaten
+09-01-20 19:01 - FedJo: Ik zal jullie aan een link helpen
+09-01-20 19:01 - FedJo: Behalve Thomas
+09-01-20 19:01 - FedJo: https://github.com/TheFedJo/5v-dingen/tree/master/Werk/Godsdienst
+09-01-20 19:02 - FedJo: U mag nu weer uw dagelijkse activiteiten voortzetten
+09-01-20 19:02 - FedJo: Alvast bedankt
+09-01-20 19:03 - FedJo: Ik zal jullie mailtjes deze ene keer er zelf inzetten
+09-01-20 19:23 - ‎Eve-An van de Brug heeft de groep verlaten
+09-01-20 20:32 - Herbert Brink: heb je misschien ook gewoon een word bestandje?
+09-01-20 20:33 - FedJo: Kan ik zometeen wel doen
+09-01-20 20:33 - FedJo: En erbij zetten
+09-01-20 20:33 - Herbert Brink: want ik ben namelijk alles in 1 bestand aan het zetten voor het overzicht maar ik kan niet makkelijk kopieren van githup
+09-01-20 20:34 - FedJo: Dat moet heel simpel zijn
+09-01-20 20:34 - Herbert Brink: dan krijg ik al die balkjes mee
+09-01-20 20:34 - FedJo: Welke balkjes
+09-01-20 20:34 - Herbert Brink: LM
+09-01-20 21:03 - FedJo: Word bestand staat erbij met geboden 3, 5 en 8
+09-01-20 21:13 - Herbert Brink: Oké had alleen 3 nodig
+09-01-20 21:13 - FedJo: Je bent niet alleen op de wereld
+09-01-20 21:29 - Herbert Brink: Jij snapt het geloof ik niet helemaal
+09-01-20 21:29 - Herbert Brink: Dat krijg je als je niet in de goede app zit😂
+09-01-20 22:25 - FedJo: Sorry Herbert, nu moet je ven uitleggen wat je bedoelt wat het kan niet dat ik dit nu steeds verkeerd lees
+09-01-20 22:37 - Herbert Brink: Het idee is dat ik alles in 1x doorstuur voor iedereen
+09-01-20 22:38 - FedJo: Klinkt heel onpraktisch maar succes
+10-01-20 22:38 - ‎Herbert Brink's beveiligingscode is gewijzigd. Tik hier voor meer informatie.
+11-01-20 19:02 - ‎Herbert Brink's beveiligingscode is gewijzigd. Tik hier voor meer informatie.
+13-01-20 09:01 - FedJo: *D D D D*
+13-01-20 09:01 - FedJo: *De vorige week in beeld*
+13-01-20 09:01 - FedJo: <Media weggelaten>
+13-01-20 09:02 - FedJo: Wie zit waar verstopt?
+13-01-20 14:27 - Leonard Donk: Dit bericht is verwijderd
+13-01-20 14:27 - Leonard Donk: <Media weggelaten>
+13-01-20 14:27 - FedJo: En nu de andere
+13-01-20 14:28 - Leonard Donk: Nee
+13-01-20 15:04 - Wouter Dekker: <Media weggelaten>
+13-01-20 15:46 - FedJo: Dat is niet mijn foto
+14-01-20 10:11 - FedJo: *Q Q Q Q*
+14-01-20 10:11 - FedJo: *Quote van de voorgaande week*
+14-01-20 10:11 - FedJo: "En wij maar doordenderen." -C.D. Hardebol
+14-01-20 12:59 - Leonard Donk: Ken ik al
+14-01-20 12:59 - Leonard Donk: Uit welke bron?
+14-01-20 12:59 - FedJo: Uit de krant
+14-01-20 12:59 - FedJo: De krant
+14-01-20 12:59 - Leonard Donk: Ja
+14-01-20 13:00 - Leonard Donk: DE
+14-01-20 16:53 - Leonard Donk: <Media weggelaten>
+14-01-20 16:55 - Thijs Rolleman: Jawel want als b is 1 dan is a 2
+14-01-20 16:55 - Thijs Rolleman: Maakt niks uit welke je pakt
+14-01-20 16:56 - Leonard Donk: Aha ik snap wat je bedoelt, de mogelijke antwoorden zouden ook anders kunnen zijn
+14-01-20 16:59 - Thijs Rolleman: Ja haha
+14-01-20 17:32 - FedJo: De Morgan's laws he
+14-01-20 17:32 - Leonard Donk: Ferdo
+14-01-20 17:33 - Leonard Donk: Aangemaakt op 27-08-15
+14-01-20 17:33 - FedJo: Ja
+14-01-20 17:33 - FedJo: Mooi he
+14-01-20 17:33 - Leonard Donk: Pracgtig
+14-01-20 17:33 - Leonard Donk: Srs mooi
+14-01-20 17:33 - Leonard Donk: 😍😍😍😍
+14-01-20 17:35 - Leonard Donk: 👩🏿‍🦰👨🏿‍🦰
+14-01-20 17:35 - FedJo: not (A or B) = not A and not B
+14-01-20 17:35 - Leonard Donk: Gern goede combi
+14-01-20 17:35 - Leonard Donk: Dit
+14-01-20 17:37 - GEARben Polinder: <Media weggelaten>
+14-01-20 17:48 - FedJo: Gerben, vieze globalist
+14-01-20 17:48 - FedJo: Linkse elitist
+14-01-20 17:48 - FedJo: SJW
+14-01-20 18:02 - Leonard Donk: Dan ben je dus antiglobalist als je links
+14-01-20 18:02 - Leonard Donk: Bent
+14-01-20 18:02 - Leonard Donk: Dus je maakt hier een FOUTJE
+14-01-20 18:02 - Herbert Brink: Nee
+14-01-20 18:19 - GEARben Polinder: Oei
+14-01-20 18:42 - Diederick Haase: Linkse mensen zijn juist globalistisch
+14-01-20 18:45 - Leonard Donk: Nee
+14-01-20 18:45 - Leonard Donk: Ga weg
+14-01-20 18:45 - Herbert Brink: Jawel
+14-01-20 18:45 - Leonard Donk: <Media weggelaten>
+14-01-20 18:45 - Leonard Donk: <Media weggelaten>
+14-01-20 18:45 - Leonard Donk: En nog meer dingen
+14-01-20 18:45 - Herbert Brink: Zij maken zich bij druk om koala beesten
+14-01-20 18:45 - Leonard Donk: Ja ik ook
+14-01-20 18:45 - Leonard Donk: Best zielig
+14-01-20 18:46 - Herbert Brink: <Media weggelaten>
+14-01-20 18:46 - Leonard Donk: Hahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahaha
+14-01-20 18:46 - Leonard Donk: Bitte
+14-01-20 18:55 - Petra Dolfsma: <Media weggelaten>
+14-01-20 18:55 - Petra Dolfsma: <Media weggelaten>
+14-01-20 18:55 - Petra Dolfsma: <Media weggelaten>
+14-01-20 18:57 - Thijs Rolleman: <Media weggelaten>
+14-01-20 18:57 - FedJo: <Media weggelaten>
+14-01-20 18:58 - FedJo: Nee maar Gerben kom op
+14-01-20 18:58 - FedJo: Beetje de Marl Karx fanboy uithangen
+14-01-20 18:58 - FedJo: Kan hier echt niet
+14-01-20 19:14 - GEARben Polinder: Ik kick je als je niet opast
+14-01-20 19:14 - GEARben Polinder: Oppast
+15-01-20 10:11 - FedJo: *Q Q Q Q*
+15-01-20 10:11 - FedJo: *Quote van de week*
+15-01-20 10:11 - FedJo: "Wat is het parallel in vredesnaam?" -W.J. van der Schoor
+15-01-20 13:42 - Leonard Donk: Prachtig
+15-01-20 14:22 - Thijs Rolleman: Krijgen we nog oefenopgaven van eco van van willigen?
+15-01-20 17:04 - FedJo: Denk het niet
+15-01-20 17:04 - FedJo: Beetje laat he
+18-01-20 08:02 - FedJo: *D D D D*
+18-01-20 08:02 - FedJo: *De week in beeld*
+18-01-20 08:02 - FedJo: <Media weggelaten>
+18-01-20 08:03 - FedJo: Het staat zelfs in     de.      krant.
+23-01-20 18:54 - ‎Jorinda Mulder's beveiligingscode is gewijzigd. Tik hier voor meer informatie.
+27-01-20 06:59 - ‎Annelien Lemstra's beveiligingscode is gewijzigd. Tik hier voor meer informatie.
+29-01-20 19:50 - Leonard Donk: Hoe weet je welke kant een B veld op loopt?
+29-01-20 20:14 - Herbert Brink: Rechterhand regel
+29-01-20 20:14 - Leonard Donk: Ja
+29-01-20 20:14 - Herbert Brink: En dan weet je ook waar de noord kant zit
+29-01-20 20:14 - Leonard Donk: Maar dan moet je ook de stroom weten en de lorentzkracht
+29-01-20 20:14 - Herbert Brink: Nopes
+29-01-20 20:15 - Leonard Donk: Huh
+29-01-20 20:15 - Herbert Brink: Dat is linkerhand
+29-01-20 20:15 - Leonard Donk: Loopt B veld altijd van noordkant
+29-01-20 20:15 - Herbert Brink: B veld rondom een stroomdraad maakt een rondje
+29-01-20 20:15 - Herbert Brink: Dus dan hoef je alleen te weten of ie links of rechtsom draait
+29-01-20 20:15 - Herbert Brink: Naar noordkant van zuidkant
+29-01-20 20:15 - Leonard Donk: Nee dat is veldlijnen toch
+29-01-20 20:16 - Herbert Brink: Ja en wat is het B veld dan
+29-01-20 20:16 - Leonard Donk: Ja dat is het magnetisch veld
+29-01-20 20:16 - Herbert Brink: Kzal eens kijken hoe het boek dat zegt
+29-01-20 20:16 - Herbert Brink: .....
+29-01-20 20:17 - Leonard Donk: B is magnetische inductie(sterkte van het magneetveld)
+29-01-20 20:18 - Herbert Brink: Met de rechterhandregel bepaalt je hoe de veldlijnen lopen, dat is weer de richting van het magneetveld wat weer B is
+29-01-20 20:19 - Herbert Brink: B in de formule moet je iets anders zien dan de vector B
+29-01-20 20:19 - Leonard Donk: Jep snap ik
+29-01-20 20:19 - Leonard Donk: Maar wat is Vecor B dan
+29-01-20 20:19 - Herbert Brink: Vector
+29-01-20 20:20 - Leonard Donk: Jaja
+29-01-20 20:20 - Herbert Brink: Komt niet voor in het boek hoor
+29-01-20 20:20 - Herbert Brink: Maar zo noem ik die B van de fbi regel
+29-01-20 20:20 - Herbert Brink: Want dat is in principe een vector
+29-01-20 20:20 - Leonard Donk: <Media weggelaten>
+29-01-20 20:21 - Herbert Brink: Yep en nu pils
+29-01-20 20:21 - Leonard Donk: <Media weggelaten>
+29-01-20 20:21 - Herbert Brink: Jep
+29-01-20 20:21 - Herbert Brink: Dus
+29-01-20 20:21 - Leonard Donk: Vecor
+29-01-20 20:22 - Leonard Donk: Als je van pils een vector door je body trekt krijg je PIS
+29-01-20 20:22 - Leonard Donk: Want de l valt weg
+29-01-20 20:22 - Leonard Donk: L*
+29-01-20 20:22 - Herbert Brink: Grote jonge nu mag je wiskey
+29-01-20 20:22 - Leonard Donk: Nee bucardi
+29-01-20 20:23 - Leonard Donk: Ik ben bij je zus*
+29-01-20 20:23 - Herbert Brink: Kheb nog een klein bodempje jack daniels
+29-01-20 20:23 - Leonard Donk: Jij mag een slokje thijmsiroop
+29-01-20 20:23 - Leonard Donk: Nee slecht GLEN TALLOCH
+29-01-20 20:23 - Herbert Brink: Tankoe
+29-01-20 20:23 - Leonard Donk: Dies beter
+29-01-20 20:23 - Herbert Brink: Nope
+29-01-20 20:23 - Herbert Brink: <Media weggelaten>
+29-01-20 20:24 - Leonard Donk: Houdt je ongelovelijke
+29-01-20 20:24 - Leonard Donk: Bitte herbert
+29-01-20 20:24 - Herbert Brink: <Media weggelaten>
+29-01-20 21:36 - Leonard Donk: Dit
+29-01-20 21:36 - Leonard Donk: Gerben
+29-01-20 21:36 - GEARben Polinder: Komtie
+29-01-20 21:38 - GEARben Polinder: <Media weggelaten>
+29-01-20 21:38 - GEARben Polinder: Duidelijk?
+29-01-20 21:40 - GEARben Polinder: <Media weggelaten>
+29-01-20 21:42 - GEARben Polinder: <Media weggelaten>
+29-01-20 21:43 - Herbert Brink: Zie pulsar 5vwo theoriekaders, voor meer illustraties
+29-01-20 21:44 - GEARben Polinder: (En iets duidelijkere)
+30-01-20 06:46 - Herbert Brink: Messiah iedereen
+30-01-20 06:53 - Leonard Donk: Dit zijn toch veldlijnen
+30-01-20 07:04 - Herbert Brink: Het B veld is richting toch magnetisch veld, dat zijn die veldlijnen
+04-02-20 01:17 - ‎Annelien Lemstra heeft een nieuw nummer. Tik om een bericht te verzenden of om het nieuwe nummer toe te voegen aan uw contacten.
+04-02-20 01:18 - ‎+31 6 44102003 is gewijzigd naar +31 6 12213005
+04-02-20 07:30 - ‎Annelien Lemstra's beveiligingscode is gewijzigd. Tik hier voor meer informatie.
+06-02-20 15:45 - FedJo: Ja, ik ben met bio flauwgevallen door een filmpje over neurochirurgie. Ja, het gaat weer goed en ik ben al thuis. Nee, niet iedereen hoeft hier massaal beterschap te wensen. Alvast bedankt.
+06-02-20 15:50 - Leonard Donk: Oke beterschap Ferdi(niet  massaal dus)
+06-02-20 20:37 - FedJo: *Q Q Q Q*
+06-02-20 20:37 - FedJo: *Quote van 2 weken geleden*
+06-02-20 20:37 - FedJo: "Oei"-Gerben
+06-02-20 20:40 - FedJo: *D D D D*
+06-02-20 20:40 - FedJo: *De week voor de vorige week in beeld*
+06-02-20 20:40 - FedJo: <Media weggelaten>
+12-02-20 13:14 - FedJo: 6e betalab
+12-02-20 18:06 - FedJo: *Q Q Q Q*
+12-02-20 18:06 - FedJo: *Quote van 2 weken geleden*
+12-02-20 18:06 - FedJo: "The safest general characterization of the European philosophical tradition is that it consists of a series of footnotes to Plato."-Alfred North Whitehead
+12-02-20 18:28 - Leonard Donk: Nu die quote van jezelf
+12-02-20 18:28 - Leonard Donk: Wat was die ook alweer?
+12-02-20 18:33 - FedJo: Die moet ook nog ja
+12-02-20 18:33 - FedJo: Ik weet hem al
+10-03-20 09:36 - FedJo: *Q Q Q Q*
+10-03-20 09:36 - FedJo: *Quote van twee weken geleden*
+10-03-20 09:36 - FedJo: "If you're going to attempt something, make sure you achieve it. If you do not succeed, then you have actually failed! Avoid this at all costs." Precept 19: 'If You Try, Succeed'. -Zote the Mighty
+10-03-20 10:07 - FedJo: *D D D D*
+10-03-20 10:07 - FedJo: *De week voor de vorige week in beeld en geluid*
+10-03-20 10:07 - FedJo: https://photos.app.goo.gl/Sx7s3VBxqCwv31YYA
+23-03-20 20:52 - ‎Jorinda Mulder's beveiligingscode is gewijzigd. Tik hier voor meer informatie.
+24-03-20 09:00 - ‎Jorinda Mulder's beveiligingscode is gewijzigd. Tik hier voor meer informatie.
+25-03-20 15:03 - FedJo: *Q Q Q Q*
+25-03-20 15:03 - FedJo: *Quote van 2 weken geleden*
+25-03-20 15:03 - FedJo: "Ik ben het coronavirus." -Thomas van den Beukel
+25-03-20 15:03 - FedJo: *Q Q Q Q*
+25-03-20 15:03 - FedJo: *Quote van de vorige week*
+25-03-20 15:03 - FedJo: "Ik ben de tweede wereldoorlog." -Harry Mulisch
+25-03-20 15:03 - FedJo: *Q Q Q Q*
+25-03-20 15:03 - FedJo: *Quote van de week*
+25-03-20 15:03 - FedJo: "itslearning"
+25-03-20 20:25 - ‎Jorinda Mulder's beveiligingscode is gewijzigd. Tik hier voor meer informatie.
+28-03-20 08:02 - ‎Jorinda Mulder's beveiligingscode is gewijzigd. Tik hier voor meer informatie.
+31-03-20 10:35 - ‎Jorinda Mulder's beveiligingscode is gewijzigd. Tik hier voor meer informatie.
+03-04-20 16:16 - ‎Jorinda Mulder's beveiligingscode is gewijzigd. Tik hier voor meer informatie.
+03-04-20 17:21 - ‎Jorinda Mulder's beveiligingscode is gewijzigd. Tik hier voor meer informatie.
+07-04-20 20:14 - FedJo: *Q Q Q Q*
+07-04-20 20:14 - FedJo: *Quote van de vorige week*
+07-04-20 20:14 - FedJo: "Vergeleken met andere plaatsen in de wereld, de plekken die de menselijke aangelegenheden innemen, is de verblijfplaats van de denker een 'plek van stilte en rust'." -Hannah Arendt
+07-04-20 20:14 - FedJo: Wil je minder filosofie, kom dan met je eigen gevonden quotes, zoals Karel-Jan.
+11-04-20 13:24 - ‎Jorinda Mulder's beveiligingscode is gewijzigd. Tik hier voor meer informatie.
+11-04-20 20:26 - ‎Jorinda Mulder's beveiligingscode is gewijzigd. Tik hier voor meer informatie.
+25-04-20 07:04 - ‎Jorinda Mulder's beveiligingscode is gewijzigd. Tik hier voor meer informatie.
+25-04-20 19:23 - ‎Jorinda Mulder's beveiligingscode is gewijzigd. Tik hier voor meer informatie.
+09-05-20 08:35 - ‎Jorinda Mulder's beveiligingscode is gewijzigd. Tik hier voor meer informatie.
+09-05-20 21:38 - ‎Jorinda Mulder's beveiligingscode is gewijzigd. Tik hier voor meer informatie.
+12-05-20 09:19 - ‎Jorinda Mulder's beveiligingscode is gewijzigd. Tik hier voor meer informatie.
+12-05-20 21:18 - ‎Jorinda Mulder's beveiligingscode is gewijzigd. Tik hier voor meer informatie.
+14-05-20 08:42 - ‎Jorinda Mulder's beveiligingscode is gewijzigd. Tik hier voor meer informatie.
+04-06-20 16:06 - ‎Leonard Donk's beveiligingscode is gewijzigd. Tik hier voor meer informatie.
+17-06-20 13:10 - ‎Jorinda Mulder's beveiligingscode is gewijzigd. Tik hier voor meer informatie.
+18-06-20 13:47 - ‎Wouter Dekker's beveiligingscode is gewijzigd. Tik hier voor meer informatie.
+19-06-20 15:23 - FedJo: *D D D D*
+19-06-20 15:23 - FedJo: *De week in beeld*
+19-06-20 15:23 - FedJo: <Media weggelaten>
+19-06-20 15:41 - Leonard Donk: Haha
+19-06-20 16:22 - Herbert Brink: Dus toch echt gebeurd ferdi?
+19-06-20 17:06 - FedJo: Tuurlijk
+19-06-20 17:06 - FedJo: Maar qga weer gamen
+26-06-20 08:37 - ‎Karel-Jan Karels's beveiligingscode is gewijzigd. Tik hier voor meer informatie.
+14-07-20 18:04 - ‎Herbert Brink's beveiligingscode is gewijzigd. Tik hier voor meer informatie.
+16-07-20 20:19 - ‎Herbert Brink's beveiligingscode is gewijzigd. Tik hier voor meer informatie.
+09-08-20 17:29 - ‎Jonathan van de Kooij's beveiligingscode is gewijzigd. Tik hier voor meer informatie.
+13-08-20 17:38 - Leonard Donk: Tja
+31-08-20 20:57 - FedJo: Ha mensen, ik heb even de speech van Van Hartingsveld samengevat voor degenen die hem gemist hebben:
+Er was eens een experiment gedaan met 2 groepen, de bewakers en de gevangenen, die bewakers moesten dus op de gevangenen passen maar het ging fout en de bewakers misbruikten hun macht en in een ander experiment werd getest of deelnemers fatale schokken wilden geven aan onschuldige burgers omdat het moest van de leider van dat experiment en die meerderheid van die mensen zouden inderdaad schokken geven als het niet genept was. Nu we het toch hebben over experimenten, Auschwitz en de mensen hadden het daar heel slecht en ook mensen van jullie leeftijd. Nu voor de ouders: we hebben jullie nodig en we waarderen dat jullie je kinderen sturen naar een school vol onbekenden terwijl u uw autosleutels niet aan onbekenden geeft. Leerlingen zijn uh verantwoordelijk en maatschappij. Dit zal niemand leuk vinden maar je mag niet meer roken officieel, maar wat kan ons boeien wat de hoge heren in Den Haag zeggen. De laatste tijd hebben jullie, leerlingen, veel de computer gebruikt en dat is niet goed dus moeten jullie 'wijs leren'. Nu afstandsonderwijs in de Bijbel. Dat kon niet, dat hadden ze niet. En nu nog een paar mededelingen: In principe staat alles op Magister en leerlingenweb, maar er is nog een ding: de collecte. Normaal zou ik dat dan maar een jaartje overslaan maar ik neem altijd een flinke hand uit dat potje en dus wil ik die aanbevelen: link is te vinden op leerlingenweb, geef gul.
+31-08-20 21:19 - ‎Annelien Lemstra heeft de groep verlaten
+03-09-20 15:47 - FedJo: *D D D D*
+03-09-20 15:47 - FedJo: *De week in beeld*
+03-09-20 15:47 - FedJo: <Media weggelaten>
+07-09-20 14:48 - FedJo: @31631385601
+07-09-20 15:41 - ‎GEARben Polinder heeft het onderwerp gewijzigd van '5Va' naar '6Va'
+09-09-20 10:08 - FedJo: *Q Q Q Q*
+09-09-20 10:08 - FedJo: *Quote van de week*
+09-09-20 10:08 - FedJo: "Als je veel leest wordt je net als mij." -Rien den Haan
