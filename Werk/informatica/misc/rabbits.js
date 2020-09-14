@@ -13,6 +13,6 @@ class Rabbit {
 }
 
 let killerRabbit = new Rabbit("killer", "yellow", "kills everything in his way.");
-let blackRabbit = new Rabbit("black", "black", "protests against racism." );
+let blackRabbit = new Rabbit("black", "black", "protests peacefully against racism, as reported by CNN." );
 blackRabbit.speak("Black lives matter!")
 blackRabbit.usually();
