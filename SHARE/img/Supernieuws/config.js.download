@@ -1,0 +1,22 @@
+CKEDITOR.editorConfig = function( config ) {
+	config.toolbarGroups = [
+		{ name: 'document',	   groups: [ /*'mode', 'document', 'doctools'*/ ] },
+		// { name: 'clipboard',   groups: [ 'clipboard', 'undo' ] },
+		// { name: 'editing',     groups: [ 'find', 'selection', 'spellchecker' ] },
+		// { name: 'forms' },
+		{ name: 'basicstyles', groups: [ 'basicstyles', 'cleanup' ] },
+		{ name: 'paragraph',   groups: [ 'list'/*, 'indent', 'blocks', 'align', 'bidi' */] },
+		{ name: 'links' },
+		{ name: 'insert', groups: [ 'Image' ] },
+		//'/',
+		{ name: 'styles', groups: [ 'Styles', 'styles' ]},
+		// { name: 'colors' },
+		// { name: 'tools' },
+		// { name: 'others' },
+		// { name: 'about' }
+	];
+	config.removeButtons = 'Cut,Copy,Paste,Undo,Redo,Anchor,Strike,Subscript,Superscript,FontSize,Font,Styles,Save,NewPage,Preview,Print,Flash,HorizontalRule,Smiley,SpecialChar,PageBreak,Iframe';
+	// config.removeDialogTabs = 'link:advanced';
+	config.format_tags = 'p;h2;h3;h4';
+	config.uploadUrl = '/userfiles/?command=QuickUpload&type=Files&responseType=json';
+};
