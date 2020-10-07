@@ -20,14 +20,7 @@ FedJo
 
 Jouw persoonlijke samenvattingen, verslagen of wat dan ook mag je in de map Werk stoppen onder de naam `vak-naam/alias-opdracht_met_lange_naam` Als je een losse tekst in een mooie opmaak wil presenteren, kun je simpelweg .md achter de bestandsnaam plakken. Hiermee kun je de lettergrootte en andere dingen aanpassen met behulp van #'s en andere tekens. Zie hier voor meer hulp: https://www.markdownguide.org/basic-syntax/. Als het goed is, kun je nu alleen veranderingen voorstellen en dan moet ik ze nog goedkeuren, maar je kan je eigen forks maken of, en dan moeten wij even contact leggen, ik kan jou `contributor` maken.
 
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
+
 
 psst
 moet je kijken
