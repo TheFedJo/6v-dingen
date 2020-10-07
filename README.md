@@ -15,7 +15,7 @@ FedJo
 >
 > - Check bestaande bestanden voor het format.
 >
-> - In de map Deprecation zijn de oude, irrelevante bestanden uit 5v beschikbaar.
+> - In de map Deprecation zijn oude, irrelevante bestanden beschikbaar.
 
 
 Jouw persoonlijke samenvattingen, verslagen of wat dan ook mag je in de map Werk stoppen onder de naam `vak-naam/alias-opdracht_met_lange_naam` Als je een losse tekst in een mooie opmaak wil presenteren, kun je simpelweg .md achter de bestandsnaam plakken. Hiermee kun je de lettergrootte en andere dingen aanpassen met behulp van #'s en andere tekens. Zie hier voor meer hulp: https://www.markdownguide.org/basic-syntax/
