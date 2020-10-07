@@ -1,7 +1,7 @@
-# 6v-dingen
-#### 6v doet alles op 1 plek
+## 6v-dingen 
+##### 6v doet alles op 1 plek
 ***
-## README BELANGRIJKST
+### README BELANGRIJKST
 
 Hier kun jij je eigen planningen, samenvattingen, word docs en andere bestanden met anderen en jezelf delen. Geen chaos met magister, itslearning of jfsgmail en geen onoverzichtelijke planningen. Hier is alles gesorteerd zonder opsmuk. Geniet van het genieten, houd je aan de regels maar niet je mond.(foutieve samentrekking)
 
