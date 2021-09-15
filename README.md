@@ -22,5 +22,5 @@ moet je kijken
 - [x] Item1
 - [ ] Item2
 - [ ] Item3
--
+
 Meer op https://www.markdownguide.org/basic-syntax/
