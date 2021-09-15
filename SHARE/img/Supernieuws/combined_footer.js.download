@@ -1,8 +1,0 @@
-function CloseModal(frameElement) {
-	if (frameElement) {
-		var dialog = $(frameElement).closest(".modal");
-		if (dialog.length > 0) {
-			dialog.modal("hide");
-		}
-	}
-}
