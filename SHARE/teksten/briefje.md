@@ -1,1 +1,1 @@
-D
+Al een tijd terug (11 mei) stond in het RD een artikel over de Kanaän Courant. Dat bleek een interessante website die de gereformeerde gezindte op een over het algemeen nette maar gedurfde manier scherp probeert te houden. Nu werd er in datzelfde artikel ook een Twitteraccount genoemd, namelijk @DuMarxie. Dit account, wat volgens het artikel aan de Kanaän Courant gelinkt was, is echter 
