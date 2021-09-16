@@ -1,5 +1,4 @@
 # 6v-dingen 
-#### 6v doet alles op 1 plek
 
 ### README BELANGRIJKST
 
